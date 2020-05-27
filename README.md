@@ -34,5 +34,5 @@ An example Django REST framework project for test driven development.
 
 ### Usage
 
-    python manage.py test
+    python todoapp/manage.py test
 
